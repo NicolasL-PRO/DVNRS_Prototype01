@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Nicolas Loth/Desktop/TRAVAIL/LOCAL GAMES PROJECTS/[DEVENARIES] Prototype01/Content/Levels/LVL_Whilebox.umap"
+				"C:/Users/Nicolas Loth/Desktop/TRAVAIL/LOCAL GAMES PROJECTS/[DEVENARIES] Prototype01/Content/Levels/LVL_Whilebox.umap",
+				"C:/Users/Nicolas Loth/Desktop/TRAVAIL/LOCAL GAMES PROJECTS/[DEVENARIES] Prototype01/Content/Blueprints/Components/SC_PawnSensing.uasset"
 			]
 		}
 	]
